@@ -3,8 +3,8 @@ import java.net.Socket;
 
 public class Client
 {
-    private final static String ADDRESS = "localhost";
-    private final static int PORT = 61657;
+    private final static String ADDRESS = "netprog1.csit.rmit.edu.au";
+    private final static int PORT = 61700;
 
     private Socket connection;
 
